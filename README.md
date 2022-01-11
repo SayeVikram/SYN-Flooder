@@ -3,7 +3,7 @@ My SYN Flooder for Linux/Unix systems
 
 
 Setup:
-   git commit https://github.com/SayeVikram/SYN-Flooder.git
+   git clone https://github.com/SayeVikram/SYN-Flooder.git
    
    cd SYN-Flooder
    
